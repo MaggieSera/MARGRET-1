@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en-US">>
+ <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<meta charset="utf-8">
+<head>
+<title>BREAKFAST PAGE.</title>
+<style>
+#intro {
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
+font-size: 40px;
+height: 70%;
+width: 50%;
+position: absolute;
+float: right;
+outline-style: groove;
+outline-color: gold;
+left: 40%;
+top: 5%
+
+}
+
+body {
+background: url("1501622245-menu-smoothies.png") no-repeat;
+border-radius:30px;
+font-family: 'Nanum Myeongjo', serif;
+font-family: 'Pacifico', cursive;
+background-size: 100% 400%;
+background-color: black;
+color: purple;
+
+
+}
+a:hover{ 
+background-color: blue:
+}
+.sera{
+background-color: lightblue;
+bottom: 40%;
+height: 20%;
+width: 10%;
+outline-style: dashed;
+outline-color: gold;
+box-shadow: 10px 10px silver;
+}
+a{ 
+text-decoration: none;
+color: gold;
+text-shadow: 2px 2px 5px blue;
+}
+</style>
+</head>
+<body>
+<p class="sera"> <span style='font-size:100px;'>&#9749;</span>Yoh !<br />  &#128512;&#128512;<br />&#128512;&#128512;<br />Breakfast 
+To-Go.<p>
+<p id="intro">No time to linger? That's fine. We've packed you a breakfast fit for kings. Emphasis on "fit." 
+Check out the ingredients:<br />
+1.Slow-roasted oats & grains<br />
+2.Vine-ripened grapes & berries<br />
+3.Naturally sweetened dried fruit<br />
+4.Homemade yogurt<br />
+5.Freshly harvested honey<br /> </p>
+<br />
+<br />
+ <a href="OUR EATERY YOUR WAY.html">OUR EATERY YOUR WAY</a> 
+<br />
+<a href="index.html">Maggie's crispy butes</a>
+</body>
+</html> 
