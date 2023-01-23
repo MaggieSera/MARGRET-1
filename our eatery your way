@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en-US">>
+ <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<meta charset="utf-8">
+<head>
+<title>OUR EATERY YOUR WAY.</title>
+<style>
+img {
+height: 50%;
+width: 55%;
+float: right;
+outline-style: dashed;
+outline-color: gold;
+box-shadow: 4px 4px 6px pink;
+background-color:#AA0000;
+}
+h2{ 
+float: right;
+top: 70%;
+position: absolute;
+left: 50%;
+}
+h3{
+float: right;
+top: 180%;
+position: absolute;
+left: 50%;
+}
+h4{
+float: right;
+top: 270%;
+position: absolute;
+left: 50%;
+}
+
+.h1{
+font-family: algerian;
+font-size: 50px;
+height: 50%;
+width: 40%;
+background-color: white;
+position: absolute;
+text-align: top-bottom;
+box-shadow: 4px 4px 5px black;
+top: 70%;
+}
+body {
+background: url("trends-in-fast-food.jpg") no-repeat;
+border-radius:30px;
+background-size: cover;
+color: purple;
+text-shadow: 2px 2px 4px black;
+}
+
+</style>
+</head>
+<body>
+ <a href="BREAKFAST PAGE.html">BREAKFAST PAGE</a> 
+<h1 class="h1"> TRY OUR MOUTH-WATERING SMOOTHIES FOR A HEAVENLY FEEL.&#128516;</h1>
+<img src="440344_JhonalieReyes08e_1c664040-c79f-411f-8aaf-d117de246782.jpg" alt="ice"  /><br /><br />
+<h2> SWEET STRAWBEERY SMOOTHY</h2>
+<h3>WENDY SMOOTHY</h3>
+<h4>SMOOTHIE KING</h4>
+<center><img src="dairy-mixed.jpg" alt= "Milk shake" /><br /></center>
+<img src="Smoothie-King-Peanut-Power-Plus-Chocolate-Smoothie.png" alt="KING" /><br />
+
+ <a href="BREAKFAST PAGE.html">BREAKFAST PAGE</a> <br />
+<a href="index.html">Maggie's crispy butes</a>
+</body>
+</html> 
